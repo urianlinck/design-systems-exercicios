@@ -1,1 +1,1 @@
-# Design-System-exerc-cio
+# Design-System-exercício
