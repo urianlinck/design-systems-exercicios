@@ -41,5 +41,5 @@ Cada pasta deste repo possui um README.md com o enunciado do exercício.
 
 ### Informações úteis sobre o assunto
 
-[Documentação do ChakraUI](https://chakra-ui.com/getting-started)
+[Documentação do ChakraUI](https://chakra-ui.com/getting-started)<br>
 [Templates do ChakraUI](https://chakra-templates.dev/components/cards)
